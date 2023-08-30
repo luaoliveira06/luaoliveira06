@@ -1,5 +1,5 @@
 ## Lua Oliveira 
-Luara souza oliveira 
+Lua Oliveira 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <hr>
 <div style="display: inline-block;">
